@@ -30,3 +30,4 @@ Articles I have enjoyed.
 
 * [The Drug of Choice for the Age of Kale](https://www.newyorker.com/magazine/2016/09/12/the-ayahuasca-boom-in-the-u-s)
 * [Learning A New Language Changes the Way You Perceive Reality](https://qz.com/1138959/learning-a-new-language-changes-the-way-you-perceive-reality/)
+* [Donald Trump Didn't Want to be President](http://nymag.com/daily/intelligencer/2018/01/michael-wolff-fire-and-fury-book-donald-trump.html)
