@@ -10,3 +10,4 @@ Books that I have read.
 ## Fiction
 
 * [Crazy Rich Asians by Kevin Kwan]() - Dec 2017
+* [China Rich Girlfriend by Kevin Kwan]() - Jan 2018
