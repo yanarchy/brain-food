@@ -18,6 +18,7 @@ Articles I have enjoyed.
 
 * [Generation Screwed](http://highline.huffingtonpost.com/articles/en/poor-millennials/)
 * [The Rise and Fall of the Pop Star Purity Ring](https://themuse.jezebel.com/the-rise-and-fall-of-the-pop-star-purity-ring-1822170318)
+* [China's Selfie Obsession - New Yorker](https://www.newyorker.com/magazine/2017/12/18/chinas-selfie-obsession)
 
 ## Coding
 
