@@ -35,3 +35,4 @@ Articles I have enjoyed.
 * [The Drug of Choice for the Age of Kale](https://www.newyorker.com/magazine/2016/09/12/the-ayahuasca-boom-in-the-u-s)
 * [Learning A New Language Changes the Way You Perceive Reality](https://qz.com/1138959/learning-a-new-language-changes-the-way-you-perceive-reality/)
 * [Ellen Pompeo - TV's $20 Million Woman Reveals Her Behind the Scenes Fight - What I Deserve](https://www.hollywoodreporter.com/features/ellen-pompeo-tvs-20-million-woman-reveals-her-behind-scenes-fight-what-i-deserve-1074978)
+* [Blockchain-Free Cryptocurrencies](https://eprint.iacr.org/2016/871.pdf)
