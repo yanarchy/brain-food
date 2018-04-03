@@ -19,11 +19,17 @@ Articles I have enjoyed.
 * [Generation Screwed](http://highline.huffingtonpost.com/articles/en/poor-millennials/)
 * [The Rise and Fall of the Pop Star Purity Ring](https://themuse.jezebel.com/the-rise-and-fall-of-the-pop-star-purity-ring-1822170318)
 * [China's Selfie Obsession - New Yorker](https://www.newyorker.com/magazine/2017/12/18/chinas-selfie-obsession)
+* [How to Think About Implicit Bias](https://www.scientificamerican.com/article/how-to-think-about-implicit-bias/)
 
 ## Coding
 
 * [target: blank - The Most Underrated Vulnerability Ever](https://www.jitbit.com/alexblog/256-targetblank---the-most-underestimated-vulnerability-ever/)
 * [Node.js Best Practices - How to become a better Node.js developer in 2018](https://nemethgergely.com/nodejs-best-practices-how-to-become-a-better-developer-in-2018/)
+
+## Tech
+
+* [Can We Keep Our Biases from Creeping Into AI](https://hbr.org/2018/02/can-we-keep-our-biases-from-creeping-into-ai)
+* [As Coding Boot Camps Close, the Field Faces a Reality Check](https://www.nytimes.com/2017/08/24/technology/coding-boot-camps-close.html)
 
 ## Japan
 
