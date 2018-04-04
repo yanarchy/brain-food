@@ -17,3 +17,4 @@ Mar 2018
 
 April 2018
 * Sapiens: A Brief History of Mankind by Yuval Noah Hariri
+* The Quiet Comeback: 20 Startup Founders Leading Japan's Next Tech Boom by Casey Wahl
