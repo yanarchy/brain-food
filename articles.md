@@ -7,6 +7,7 @@ Articles I have enjoyed.
 > "Bitcoin is what banking looked like in the middle ages — “here’s your libertarian paradise, have a nice day.”"
 
 * [Ten years in, nobody has come up with a use case for blockchain](https://hackernoon.com/ten-years-in-nobody-has-come-up-with-a-use-case-for-blockchain-ee98c180100)
+* [Blockchain is not only crappy technology but a bad vision for the future](https://medium.com/@kaistinchcombe/decentralized-and-trustless-crypto-paradise-is-actually-a-medieval-hellhole-c1ca122efdec)
 
 ## Politics
 
