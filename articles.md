@@ -19,6 +19,7 @@ Articles I have enjoyed.
 
 * [Can We Keep Our Biases from Creeping Into AI](https://hbr.org/2018/02/can-we-keep-our-biases-from-creeping-into-ai)
 * [As Coding Boot Camps Close, the Field Faces a Reality Check](https://www.nytimes.com/2017/08/24/technology/coding-boot-camps-close.html)
+* [DNA tests for IQ](https://www.technologyreview.com/s/610339/dna-tests-for-iq-are-coming-but-it-might-not-be-smart-to-take-one/)
 
 ### Blockchain
 
@@ -32,6 +33,7 @@ Articles I have enjoyed.
 
 * [target: blank - The Most Underrated Vulnerability Ever](https://www.jitbit.com/alexblog/256-targetblank---the-most-underestimated-vulnerability-ever/)
 * [Node.js Best Practices - How to become a better Node.js developer in 2018](https://nemethgergely.com/nodejs-best-practices-how-to-become-a-better-developer-in-2018/)
+* [Gmail phishing scam](https://jameshfisher.com/2018/04/07/the-dots-do-matter-how-to-scam-a-gmail-user.html)
 
 ## Japan
 
