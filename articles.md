@@ -7,6 +7,7 @@ Articles I have enjoyed.
 > "Bitcoin is what banking looked like in the middle ages — “here’s your libertarian paradise, have a nice day.”"
 
 * [Ten years in, nobody has come up with a use case for blockchain](https://hackernoon.com/ten-years-in-nobody-has-come-up-with-a-use-case-for-blockchain-ee98c180100)
+* [Blockchain-Free Cryptocurrencies](https://eprint.iacr.org/2016/871.pdf)
 
 ## Politics
 
@@ -41,4 +42,4 @@ Articles I have enjoyed.
 * [The Drug of Choice for the Age of Kale](https://www.newyorker.com/magazine/2016/09/12/the-ayahuasca-boom-in-the-u-s)
 * [Learning A New Language Changes the Way You Perceive Reality](https://qz.com/1138959/learning-a-new-language-changes-the-way-you-perceive-reality/)
 * [Ellen Pompeo - TV's $20 Million Woman Reveals Her Behind the Scenes Fight - What I Deserve](https://www.hollywoodreporter.com/features/ellen-pompeo-tvs-20-million-woman-reveals-her-behind-scenes-fight-what-i-deserve-1074978)
-* [Blockchain-Free Cryptocurrencies](https://eprint.iacr.org/2016/871.pdf)
+* [Vanity Fair - Lena Waithe Is Changing the Game](https://www.vanityfair.com/hollywood/2018/03/lena-waithe-cover-story)
