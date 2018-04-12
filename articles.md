@@ -2,13 +2,6 @@
 
 Articles I have enjoyed.
 
-## Blockchain
-
-> "Bitcoin is what banking looked like in the middle ages — “here’s your libertarian paradise, have a nice day.”"
-
-* [Ten years in, nobody has come up with a use case for blockchain](https://hackernoon.com/ten-years-in-nobody-has-come-up-with-a-use-case-for-blockchain-ee98c180100)
-* [Blockchain-Free Cryptocurrencies](https://eprint.iacr.org/2016/871.pdf)
-
 ## Politics
 
 * [Hannah Arendt - The Thinker on Totaliarianism is Popular in the Trump Era](https://quartzy.qz.com/1162378/hannah-arendt-the-thinker-on-totalitarianism-is-popular-in-the-trump-era/)
@@ -22,15 +15,25 @@ Articles I have enjoyed.
 * [China's Selfie Obsession - New Yorker](https://www.newyorker.com/magazine/2017/12/18/chinas-selfie-obsession)
 * [How to Think About Implicit Bias](https://www.scientificamerican.com/article/how-to-think-about-implicit-bias/)
 
-## Coding
-
-* [target: blank - The Most Underrated Vulnerability Ever](https://www.jitbit.com/alexblog/256-targetblank---the-most-underestimated-vulnerability-ever/)
-* [Node.js Best Practices - How to become a better Node.js developer in 2018](https://nemethgergely.com/nodejs-best-practices-how-to-become-a-better-developer-in-2018/)
-
 ## Tech
 
 * [Can We Keep Our Biases from Creeping Into AI](https://hbr.org/2018/02/can-we-keep-our-biases-from-creeping-into-ai)
 * [As Coding Boot Camps Close, the Field Faces a Reality Check](https://www.nytimes.com/2017/08/24/technology/coding-boot-camps-close.html)
+* [DNA tests for IQ](https://www.technologyreview.com/s/610339/dna-tests-for-iq-are-coming-but-it-might-not-be-smart-to-take-one/)
+
+### Blockchain
+
+> "Bitcoin is what banking looked like in the middle ages — “here’s your libertarian paradise, have a nice day.”"
+
+* [Ten years in, nobody has come up with a use case for blockchain](https://hackernoon.com/ten-years-in-nobody-has-come-up-with-a-use-case-for-blockchain-ee98c180100)
+* [Blockchain is not only crappy technology but a bad vision for the future](https://medium.com/@kaistinchcombe/decentralized-and-trustless-crypto-paradise-is-actually-a-medieval-hellhole-c1ca122efdec)
+* [Blockchain-Free Cryptocurrencies](https://eprint.iacr.org/2016/871.pdf)
+
+### Coding
+
+* [target: blank - The Most Underrated Vulnerability Ever](https://www.jitbit.com/alexblog/256-targetblank---the-most-underestimated-vulnerability-ever/)
+* [Node.js Best Practices - How to become a better Node.js developer in 2018](https://nemethgergely.com/nodejs-best-practices-how-to-become-a-better-developer-in-2018/)
+* [Gmail phishing scam](https://jameshfisher.com/2018/04/07/the-dots-do-matter-how-to-scam-a-gmail-user.html)
 
 ## Japan
 
