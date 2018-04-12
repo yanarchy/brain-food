@@ -20,6 +20,8 @@ Articles I have enjoyed.
 * [Can We Keep Our Biases from Creeping Into AI](https://hbr.org/2018/02/can-we-keep-our-biases-from-creeping-into-ai)
 * [As Coding Boot Camps Close, the Field Faces a Reality Check](https://www.nytimes.com/2017/08/24/technology/coding-boot-camps-close.html)
 * [DNA tests for IQ](https://www.technologyreview.com/s/610339/dna-tests-for-iq-are-coming-but-it-might-not-be-smart-to-take-one/)
+* [Gentle Intro to Rust by Steve Donovan](https://stevedonovan.github.io/rust-gentle-intro/readme.html#a-gentle-introduction-to-rust)
+* [Taxonomy of Technical Debt](https://engineering.riotgames.com/news/taxonomy-tech-debt)
 
 ### Blockchain
 
@@ -46,3 +48,8 @@ Articles I have enjoyed.
 * [Learning A New Language Changes the Way You Perceive Reality](https://qz.com/1138959/learning-a-new-language-changes-the-way-you-perceive-reality/)
 * [Ellen Pompeo - TV's $20 Million Woman Reveals Her Behind the Scenes Fight - What I Deserve](https://www.hollywoodreporter.com/features/ellen-pompeo-tvs-20-million-woman-reveals-her-behind-scenes-fight-what-i-deserve-1074978)
 * [Vanity Fair - Lena Waithe Is Changing the Game](https://www.vanityfair.com/hollywood/2018/03/lena-waithe-cover-story)
+
+## Education
+
+* [Hattie Ranking: 252 Influences And Effect Sizes Related To Student Achievement](https://visible-learning.org/hattie-ranking-influences-effect-sizes-learning-achievement/)
+* [The Myth of Learning Styles](https://www.theatlantic.com/science/archive/2018/04/the-myth-of-learning-styles/557687/?single_page=true)
