@@ -54,3 +54,7 @@ Articles I have enjoyed.
 * [Hattie Ranking: 252 Influences And Effect Sizes Related To Student Achievement](https://visible-learning.org/hattie-ranking-influences-effect-sizes-learning-achievement/)
 * [The Myth of Learning Styles](https://www.theatlantic.com/science/archive/2018/04/the-myth-of-learning-styles/557687/?single_page=true)
 * [Austin's Butterfly](http://modelsofexcellence.eleducation.org/resources/austins-butterfly)
+
+## Interactive
+
+* [Virtual Experience of Solitary Confinement - The Guardian](https://www.theguardian.com/world/ng-interactive/2016/apr/27/6x9-a-virtual-experience-of-solitary-confinement)
