@@ -23,6 +23,10 @@ Mar 2018
 April 2018
 
 * [Sapiens: A Brief History of Mankind by Yuval Noah Hariri](https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095)
+
+Currently Reading
+
 * [The Quiet Comeback: 20 Startup Founders Leading Japan's Next Tech Boom by Casey Wahl](https://www.amazon.co.jp/Quiet-Comeback-Startup-Founders-NextPublishing/dp/4802027265)
 * [A People's History of the United States by Howard Zinn](https://www.amazon.com/Peoples-History-United-States/dp/0062397346)
 * [Enlightenment Now: The Case for Reason, Science, Humanism and Progress by Steven Pinker](https://www.amazon.com/Enlightenment-Now-Science-Humanism-Progress/dp/B079P5JV9P)
+* [Homo Deus: A Brief History of Tomorrow by Yuval Noah Hariri](https://www.amazon.com/Homo-Deus-Brief-History-Tomorrow/dp/0062464310)
