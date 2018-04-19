@@ -14,6 +14,8 @@ Articles I have enjoyed.
 * [The Rise and Fall of the Pop Star Purity Ring](https://themuse.jezebel.com/the-rise-and-fall-of-the-pop-star-purity-ring-1822170318)
 * [China's Selfie Obsession - New Yorker](https://www.newyorker.com/magazine/2017/12/18/chinas-selfie-obsession)
 * [How to Think About Implicit Bias](https://www.scientificamerican.com/article/how-to-think-about-implicit-bias/)
+* [Too Many Men - Washington Post](https://www.washingtonpost.com/graphics/2018/world/too-many-men)
+  * > The consequences of having too many men, now coming of age, are far-reaching: Beyond an epidemic of loneliness, the imbalance distorts labor markets, drives up savings rates in China and drives down consumption, artificially inflates certain property values, and parallels increases in violent crime, trafficking or prostitution in a growing number of locations.
 
 ## Tech
 
