@@ -24,6 +24,7 @@ Articles I have enjoyed.
 * [DNA tests for IQ](https://www.technologyreview.com/s/610339/dna-tests-for-iq-are-coming-but-it-might-not-be-smart-to-take-one/)
 * [Gentle Intro to Rust by Steve Donovan](https://stevedonovan.github.io/rust-gentle-intro/readme.html#a-gentle-introduction-to-rust)
 * [Taxonomy of Technical Debt](https://engineering.riotgames.com/news/taxonomy-tech-debt)
+* [Palantir Knows Everything About You](https://www.bloomberg.com/features/2018-palantir-peter-thiel/)
 
 ### Blockchain
 
