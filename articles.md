@@ -51,6 +51,7 @@ Articles I have enjoyed.
 * [Learning A New Language Changes the Way You Perceive Reality](https://qz.com/1138959/learning-a-new-language-changes-the-way-you-perceive-reality/)
 * [Ellen Pompeo - TV's $20 Million Woman Reveals Her Behind the Scenes Fight - What I Deserve](https://www.hollywoodreporter.com/features/ellen-pompeo-tvs-20-million-woman-reveals-her-behind-scenes-fight-what-i-deserve-1074978)
 * [Vanity Fair - Lena Waithe Is Changing the Game](https://www.vanityfair.com/hollywood/2018/03/lena-waithe-cover-story)
+* [Why I'm suing over my dream internship](https://www.theguardian.com/news/2018/mar/27/why-im-suing-over-my-dream-internship)
 
 ## Education
 
