@@ -16,6 +16,7 @@ Articles I have enjoyed.
 * [How to Think About Implicit Bias](https://www.scientificamerican.com/article/how-to-think-about-implicit-bias/)
 * [Too Many Men - Washington Post](https://www.washingtonpost.com/graphics/2018/world/too-many-men)
   * > The consequences of having too many men, now coming of age, are far-reaching: Beyond an epidemic of loneliness, the imbalance distorts labor markets, drives up savings rates in China and drives down consumption, artificially inflates certain property values, and parallels increases in violent crime, trafficking or prostitution in a growing number of locations.
+* [A different definition of violence](https://www.csmonitor.com/Commentary/upfront-blog/2018/0408/A-different-definition-of-violence) - How do you rein in hateful speech online without overbalancing into censorship? That is Germany’s challenge.
 
 ## Tech
 
