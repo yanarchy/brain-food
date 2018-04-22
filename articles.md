@@ -53,6 +53,9 @@ Articles I have enjoyed.
 * [Ellen Pompeo - TV's $20 Million Woman Reveals Her Behind the Scenes Fight - What I Deserve](https://www.hollywoodreporter.com/features/ellen-pompeo-tvs-20-million-woman-reveals-her-behind-scenes-fight-what-i-deserve-1074978)
 * [Vanity Fair - Lena Waithe Is Changing the Game](https://www.vanityfair.com/hollywood/2018/03/lena-waithe-cover-story)
 * [Why I'm suing over my dream internship](https://www.theguardian.com/news/2018/mar/27/why-im-suing-over-my-dream-internship)
+* [The man who brought down Lance Armstrong - The Atlantic](https://www.theatlantic.com/magazine/archive/2018/05/lance-armstrong-floyd-landis/556868/?single_page=true)
+ * I think he turned Armstrong in to save his own ass, but it does make for an interesting look into a hyper competitive sport.
+ * > Performance-enhancing drugs have been central to competitive cycling for as long as the sport has existed. Early-20th-century riders in the Tour de France took the dangerous stimulant strychnine and held ether-soaked handkerchiefs to their mouth to dull the pain caused by propelling a bike for thousands of miles.
 
 ## Education
 
