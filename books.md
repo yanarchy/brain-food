@@ -30,3 +30,4 @@ Currently Reading
 * [A People's History of the United States by Howard Zinn](https://www.amazon.com/Peoples-History-United-States/dp/0062397346)
 * [Enlightenment Now: The Case for Reason, Science, Humanism and Progress by Steven Pinker](https://www.amazon.com/Enlightenment-Now-Science-Humanism-Progress/dp/B079P5JV9P)
 * [Homo Deus: A Brief History of Tomorrow by Yuval Noah Hariri](https://www.amazon.com/Homo-Deus-Brief-History-Tomorrow/dp/0062464310)
+* [A Higher Loyalty by James Comey]()
