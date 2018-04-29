@@ -26,8 +26,8 @@ April 2018
 * [Homo Deus: A Brief History of Tomorrow by Yuval Noah Hariri](https://www.amazon.com/Homo-Deus-Brief-History-Tomorrow/dp/0062464310)
 * [Enlightenment Now: The Case for Reason, Science, Humanism and Progress by Steven Pinker](https://www.amazon.com/Enlightenment-Now-Science-Humanism-Progress/dp/B079P5JV9P)
 * [A Higher Loyalty by James Comey](https://www.theguardian.com/books/2018/apr/22/a-higher-loyalty-truth-lies-and-leadership-by-james-comey-book-review)
-    > "Ethical leaders do not run from criticism, especially self-criticism, and they don’t hide from uncomfortable questions. They welcome them.”
-    > "We are experiencing a dangerous time in our country, with a political environment where basic facts are disputed, fundamental truth is questioned, lying is normalized and unethical behavior is ignored, excused or rewarded. What is happening now is not normal. … It is not fake news. It is not okay."
+    * > "Ethical leaders do not run from criticism, especially self-criticism, and they don’t hide from uncomfortable questions. They welcome them.”
+    * > "We are experiencing a dangerous time in our country, with a political environment where basic facts are disputed, fundamental truth is questioned, lying is normalized and unethical behavior is ignored, excused or rewarded. What is happening now is not normal. … It is not fake news. It is not okay."
  
 Currently Reading
 
