@@ -58,6 +58,7 @@ Articles I have enjoyed.
   * I think he turned Armstrong in to save his own ass, but it does make for an interesting look into a hyper competitive sport.
   * > "Performance-enhancing drugs have been central to competitive cycling for as long as the sport has existed. Early-20th-century riders in the Tour de France took the dangerous stimulant strychnine and held ether-soaked handkerchiefs to their mouth to dull the pain caused by propelling a bike for thousands of miles."
 * [What Capitalism Is - Teen Vogue](https://www.teenvogue.com/story/what-capitalism-is)
+* [WEF - basic income could boost US economy by $2.5 trillion](https://www.weforum.org/agenda/2017/09/a-basic-income-could-boost-the-us-economy-by-2-5-trillion)
 
 ## Education
 
