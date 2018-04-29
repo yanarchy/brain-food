@@ -33,3 +33,5 @@ Currently Reading
 
 * [The Quiet Comeback: 20 Startup Founders Leading Japan's Next Tech Boom by Casey Wahl](https://www.amazon.co.jp/Quiet-Comeback-Startup-Founders-NextPublishing/dp/4802027265)
 * [A People's History of the United States by Howard Zinn](https://www.amazon.com/Peoples-History-United-States/dp/0062397346)
+   * I've read this numerous times and it always feels new.
+* [Born a Crime: Stories from a South African Childhood by Trevor Noah](https://www.gatesnotes.com/Books/Born-a-Crime)
