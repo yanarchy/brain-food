@@ -17,6 +17,7 @@ Articles I have enjoyed.
 * [Too Many Men - Washington Post](https://www.washingtonpost.com/graphics/2018/world/too-many-men)
   * > The consequences of having too many men, now coming of age, are far-reaching: Beyond an epidemic of loneliness, the imbalance distorts labor markets, drives up savings rates in China and drives down consumption, artificially inflates certain property values, and parallels increases in violent crime, trafficking or prostitution in a growing number of locations.
 * [A different definition of violence](https://www.csmonitor.com/Commentary/upfront-blog/2018/0408/A-different-definition-of-violence) - How do you rein in hateful speech online without overbalancing into censorship? That is Germany’s challenge.
+* [A Most American Terrorist: The Making of Dylann Roof - GQ](https://www.gq.com/story/dylann-roof-making-of-an-american-terrorist)
 
 ## Tech
 
@@ -54,8 +55,9 @@ Articles I have enjoyed.
 * [Vanity Fair - Lena Waithe Is Changing the Game](https://www.vanityfair.com/hollywood/2018/03/lena-waithe-cover-story)
 * [Why I'm suing over my dream internship](https://www.theguardian.com/news/2018/mar/27/why-im-suing-over-my-dream-internship)
 * [The man who brought down Lance Armstrong - The Atlantic](https://www.theatlantic.com/magazine/archive/2018/05/lance-armstrong-floyd-landis/556868/?single_page=true)
- * I think he turned Armstrong in to save his own ass, but it does make for an interesting look into a hyper competitive sport.
- * > Performance-enhancing drugs have been central to competitive cycling for as long as the sport has existed. Early-20th-century riders in the Tour de France took the dangerous stimulant strychnine and held ether-soaked handkerchiefs to their mouth to dull the pain caused by propelling a bike for thousands of miles.
+  * I think he turned Armstrong in to save his own ass, but it does make for an interesting look into a hyper competitive sport.
+  * > "Performance-enhancing drugs have been central to competitive cycling for as long as the sport has existed. Early-20th-century riders in the Tour de France took the dangerous stimulant strychnine and held ether-soaked handkerchiefs to their mouth to dull the pain caused by propelling a bike for thousands of miles."
+* [What Capitalism Is - Teen Vogue](https://www.teenvogue.com/story/what-capitalism-is)
 
 ## Education
 
