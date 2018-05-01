@@ -59,6 +59,7 @@ Articles I have enjoyed.
   * > "Performance-enhancing drugs have been central to competitive cycling for as long as the sport has existed. Early-20th-century riders in the Tour de France took the dangerous stimulant strychnine and held ether-soaked handkerchiefs to their mouth to dull the pain caused by propelling a bike for thousands of miles."
 * [What Capitalism Is - Teen Vogue](https://www.teenvogue.com/story/what-capitalism-is)
 * [WEF - basic income could boost US economy by $2.5 trillion](https://www.weforum.org/agenda/2017/09/a-basic-income-could-boost-the-us-economy-by-2-5-trillion)
+* [Bike Share Oversupply in China - Pictures](https://www.theatlantic.com/photo/2018/03/bike-share-oversupply-in-china-huge-piles-of-abandoned-and-broken-bicycles/556268/?single_page=true)
 
 ## Education
 
