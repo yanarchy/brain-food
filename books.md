@@ -36,3 +36,8 @@ Currently Reading
 * [A People's History of the United States by Howard Zinn](https://www.amazon.com/Peoples-History-United-States/dp/0062397346)
    * I've read this numerous times and it always feels new.
 * [The Cuckoo's Calling by JK Rowling](https://www.amazon.com/Cuckoos-Calling-Cormoran-Strike-Novel/dp/0316206849)
+
+Queued Up!
+
+* [When Breath Becomes Air by Paul Kalanithi]()
+* [The Girl Who Smiled Beads by Clementine Wamariya]()
