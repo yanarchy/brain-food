@@ -1,7 +1,5 @@
 # Books
 
-## Non-Fiction
-
 Dec 2017
 
 * [What Happened by Hillary Clinton](https://www.amazon.com/What-Happened-Hillary-Rodham-Clinton/dp/1501175564)
