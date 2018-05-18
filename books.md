@@ -30,14 +30,17 @@ April 2018
     * > "We are experiencing a dangerous time in our country, with a political environment where basic facts are disputed, fundamental truth is questioned, lying is normalized and unethical behavior is ignored, excused or rewarded. What is happening now is not normal. … It is not fake news. It is not okay."
 * [Born a Crime: Stories from a South African Childhood by Trevor Noah](https://www.gatesnotes.com/Books/Born-a-Crime)
 
+May 2018
+
+* [The Cuckoo's Calling by JK Rowling](https://www.amazon.com/Cuckoos-Calling-Cormoran-Strike-Novel/dp/0316206849)
+
 Currently Reading
 
 * [The Quiet Comeback: 20 Startup Founders Leading Japan's Next Tech Boom by Casey Wahl](https://www.amazon.co.jp/Quiet-Comeback-Startup-Founders-NextPublishing/dp/4802027265)
 * [A People's History of the United States by Howard Zinn](https://www.amazon.com/Peoples-History-United-States/dp/0062397346)
    * I've read this numerous times and it always feels new.
-* [The Cuckoo's Calling by JK Rowling](https://www.amazon.com/Cuckoos-Calling-Cormoran-Strike-Novel/dp/0316206849)
+* [When Breath Becomes Air by Paul Kalanithi]()
 
 Queued Up!
 
-* [When Breath Becomes Air by Paul Kalanithi]()
 * [The Girl Who Smiled Beads by Clementine Wamariya]()
