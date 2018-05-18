@@ -40,6 +40,7 @@ Currently Reading
 * [A People's History of the United States by Howard Zinn](https://www.amazon.com/Peoples-History-United-States/dp/0062397346)
    * I've read this numerous times and it always feels new.
 * [When Breath Becomes Air by Paul Kalanithi]()
+* [Broad Band: The Untold Story of the Women Who Made the Internet by Claire L. Evans]()
 
 Queued Up!
 
