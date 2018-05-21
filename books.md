@@ -31,13 +31,13 @@ April 2018
 May 2018
 
 * [The Cuckoo's Calling by JK Rowling](https://www.amazon.com/Cuckoos-Calling-Cormoran-Strike-Novel/dp/0316206849)
+* [When Breath Becomes Air by Paul Kalanithi](https://en.wikipedia.org/wiki/When_Breath_Becomes_Air)
 
 Currently Reading
 
 * [The Quiet Comeback: 20 Startup Founders Leading Japan's Next Tech Boom by Casey Wahl](https://www.amazon.co.jp/Quiet-Comeback-Startup-Founders-NextPublishing/dp/4802027265)
 * [A People's History of the United States by Howard Zinn](https://www.amazon.com/Peoples-History-United-States/dp/0062397346)
    * I've read this numerous times and it always feels new.
-* [When Breath Becomes Air by Paul Kalanithi]()
 * [Broad Band: The Untold Story of the Women Who Made the Internet by Claire L. Evans]()
 
 Queued Up!
