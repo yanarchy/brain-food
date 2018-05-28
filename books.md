@@ -40,6 +40,7 @@ Currently Reading
    * I've read this numerous times and it always feels new.
 * [Broad Band: The Untold Story of the Women Who Made the Internet by Claire L. Evans](https://www.amazon.com/Broad-Band-Untold-Story-Internet-ebook/dp/B074DGKWRG)
 * [Wildflower by Drew Barrymore](https://www.amazon.com/Wildflower-Drew-Barrymore/dp/1101983817)
+* [Rich People Problems by Kevin Kwan]()
 
 Queued Up!
 
