@@ -33,15 +33,22 @@ May 2018
 * [The Cuckoo's Calling by JK Rowling](https://www.amazon.com/Cuckoos-Calling-Cormoran-Strike-Novel/dp/0316206849)
 * [When Breath Becomes Air by Paul Kalanithi](https://en.wikipedia.org/wiki/When_Breath_Becomes_Air)
 
+June 2018
+
+* [Rich People Problems by Kevin Kwan]()
+
 Currently Reading
 
 * [The Quiet Comeback: 20 Startup Founders Leading Japan's Next Tech Boom by Casey Wahl](https://www.amazon.co.jp/Quiet-Comeback-Startup-Founders-NextPublishing/dp/4802027265)
 * [A People's History of the United States by Howard Zinn](https://www.amazon.com/Peoples-History-United-States/dp/0062397346)
    * I've read this numerous times and it always feels new.
-* [Broad Band: The Untold Story of the Women Who Made the Internet by Claire L. Evans](https://www.amazon.com/Broad-Band-Untold-Story-Internet-ebook/dp/B074DGKWRG)
-* [Wildflower by Drew Barrymore](https://www.amazon.com/Wildflower-Drew-Barrymore/dp/1101983817)
-* [Rich People Problems by Kevin Kwan]()
+* [Broad Band: The Untold Story of the Women Who Made the Internet by Claire L. Evans](https://www.amazon.com/Broad-Band-Untold-Story-Internet-ebook/dp/B074DGKWRG)\
+
 
 Queued Up!
 
 * [The Girl Who Smiled Beads by Clementine Wamariya](https://www.amazon.com/Girl-Who-Smiled-Beads/dp/1786331470/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1527516644&sr=1-1)
+
+Stopped Reading Because It's Terrible
+
+* [Wildflower by Drew Barrymore](https://www.amazon.com/Wildflower-Drew-Barrymore/dp/1101983817)
