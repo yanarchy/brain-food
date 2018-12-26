@@ -37,12 +37,23 @@ June 2018
 
 * [Rich People Problems by Kevin Kwan]()
 
-Currently Reading
+July 2018 - December 2018
 
 * [The Quiet Comeback: 20 Startup Founders Leading Japan's Next Tech Boom by Casey Wahl](https://www.amazon.co.jp/Quiet-Comeback-Startup-Founders-NextPublishing/dp/4802027265)
+* [Becoming by Michelle Obama]()
+* Fire & Fury by Michael Wolff
+* Heavy by Kiese Laymon
+* The Bell Jar by Sylvia Plath
+* Educated: A Memoir by Julia Whelan
+* Between the World and Me by Ta-Nehisi Coates
+* Is Everyone Hanging Out Without Me by Mindy Kaling
+* [The Power by Naomi Alderman](https://www.amazon.com/Power-Naomi-Alderman/dp/0316547611)
+
+Currently Reading
+
 * [A People's History of the United States by Howard Zinn](https://www.amazon.com/Peoples-History-United-States/dp/0062397346)
    * I've read this numerous times and it always feels new.
-* [Broad Band: The Untold Story of the Women Who Made the Internet by Claire L. Evans](https://www.amazon.com/Broad-Band-Untold-Story-Internet-ebook/dp/B074DGKWRG)\
+* [Broad Band: The Untold Story of the Women Who Made the Internet by Claire L. Evans](https://www.amazon.com/Broad-Band-Untold-Story-Internet-ebook/dp/B074DGKWRG)
 
 
 Queued Up!
