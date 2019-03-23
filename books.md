@@ -40,20 +40,30 @@ June 2018
 July 2018 - December 2018
 
 * [The Quiet Comeback: 20 Startup Founders Leading Japan's Next Tech Boom by Casey Wahl](https://www.amazon.co.jp/Quiet-Comeback-Startup-Founders-NextPublishing/dp/4802027265)
-* [Becoming by Michelle Obama]()
-* Fire & Fury by Michael Wolff
+* [Becoming by Michelle Obama](https://www.amazon.com/Becoming-Michelle-Obama/dp/1524763136)
+* [Fire & Fury by Michael Wolff](https://www.amazon.com/Fire-Fury-Inside-Trump-White/dp/1250158060)
 * Heavy by Kiese Laymon
 * The Bell Jar by Sylvia Plath
 * Educated: A Memoir by Julia Whelan
 * Between the World and Me by Ta-Nehisi Coates
 * Is Everyone Hanging Out Without Me by Mindy Kaling
 * [The Power by Naomi Alderman](https://www.amazon.com/Power-Naomi-Alderman/dp/0316547611)
+* [Broad Band: The Untold Story of the Women Who Made the Internet by Claire L. Evans](https://www.amazon.com/Broad-Band-Untold-Story-Internet-ebook/dp/B074DGKWRG)
+
+January 2019
+
+* [The Silkworm by Robert Galbraith](https://www.amazon.com/Silkworm-Cormoran-Strike-Novel/dp/031620689X)
+
+March 2019
+
+* [The Underground Railroad by Colson Whitehead](https://www.amazon.com/Underground-Railroad-Novel-Colson-Whitehead/dp/0345804325)
+* [The Only Woman in the Room by Marie Benedict](https://www.amazon.com/Only-Woman-Room-Novel/dp/1492666866)
 
 Currently Reading
 
 * [A People's History of the United States by Howard Zinn](https://www.amazon.com/Peoples-History-United-States/dp/0062397346)
    * I've read this numerous times and it always feels new.
-* [Broad Band: The Untold Story of the Women Who Made the Internet by Claire L. Evans](https://www.amazon.com/Broad-Band-Untold-Story-Internet-ebook/dp/B074DGKWRG)
+
 
 
 Queued Up!
