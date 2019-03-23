@@ -18,6 +18,7 @@ Articles I have enjoyed.
   * > The consequences of having too many men, now coming of age, are far-reaching: Beyond an epidemic of loneliness, the imbalance distorts labor markets, drives up savings rates in China and drives down consumption, artificially inflates certain property values, and parallels increases in violent crime, trafficking or prostitution in a growing number of locations.
 * [A different definition of violence](https://www.csmonitor.com/Commentary/upfront-blog/2018/0408/A-different-definition-of-violence) - How do you rein in hateful speech online without overbalancing into censorship? That is Germany’s challenge.
 * [A Most American Terrorist: The Making of Dylann Roof - GQ](https://www.gq.com/story/dylann-roof-making-of-an-american-terrorist)
+* [The deadly truth about a world built for men – from stab vests to car crashes](https://www.theguardian.com/lifeandstyle/2019/feb/23/truth-world-built-for-men-car-crashes) - Too much headshaking
 
 ## Tech
 
@@ -28,6 +29,7 @@ Articles I have enjoyed.
 * [Taxonomy of Technical Debt](https://engineering.riotgames.com/news/taxonomy-tech-debt)
 * [Palantir Knows Everything About You](https://www.bloomberg.com/features/2018-palantir-peter-thiel/)
 * [OECD Report - TRANSFORMATIVE TECHNOLOGIES AND JOBS OF THE FUTURE](https://www.oecd.org/innovation/transformative-technologies-and-jobs-of-the-future.pdf)
+* [This Cat Sensed Death. What if Computers Could, Too?](https://www.nytimes.com/2018/01/03/magazine/the-dying-algorithm.html)
 
 ### Blockchain
 
